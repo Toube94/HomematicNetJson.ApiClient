@@ -1,0 +1,1 @@
+# HomematicNetJson.ApiClient
