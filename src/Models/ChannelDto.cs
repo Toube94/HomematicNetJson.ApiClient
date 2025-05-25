@@ -11,7 +11,7 @@ namespace HomematicNetJson.ApiClient.Models
         [JsonPropertyName("address")]
         public string? Address { get; set; }
         [JsonPropertyName("deviceId")]
-        public string? DeviceId { get; set; }
+        public int DeviceId { get; set; }
         [JsonPropertyName("index")]
         public int Index { get; set; }
         [JsonPropertyName("partnerId")]
